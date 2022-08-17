@@ -3,7 +3,7 @@
 
 .NET and csharp playground
 
-[![On the slope](C0207T01.jpg)])
+[![On the slope](C0207T01.JPG)])
 
 TODO:
 
