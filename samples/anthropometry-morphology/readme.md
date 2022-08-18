@@ -1,6 +1,6 @@
 # Morphological Characteristics
 
-## BMI Bodz Mass Index
+## BMI Body Mass Index
 
 https://www.plivazdravlje.hr/zdravlje-online/bmi
 
@@ -15,3 +15,8 @@ https://www.nhs.uk/live-well/healthy-weight/bmi-calculator/
 https://www.centarzdravlja.hr/alati/bmi-kalkulator/
 
 https://kalkulator.com.hr/bmi-kalkulator/kalkulator-tezine.aspx
+
+
+## Ponderal/Corpulence Index
+
+## Hip Waste Ration
