@@ -16,3 +16,9 @@ Console.WriteLine($"BMI = {bmi}");
 
 // Tvrtko
 // BMI = 26,122448979591837
+
+
+
+
+
+
