@@ -4,6 +4,19 @@
 
 Ovdje pisem zabiljeske
 
+https://www.markdowntutorial.com/
+
+https://www.markdownguide.org/
+
+https://www.markdownguide.org/basic-syntax/
+
+https://www.w3schools.io/file/markdown-introduction/
+
+https://www.youtube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia
+
+https://www.youtube.com/watch?v=6A5EpqqDOdk&ab_channel=Podmedics
+
+
 ## Intro
 
 *   anthropometry
