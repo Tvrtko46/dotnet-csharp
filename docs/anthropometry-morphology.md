@@ -2,6 +2,8 @@
 
 ## Trvdi
 
+Ovdje pisem zabiljeske
+
 ## Intro
 
 *   anthropometry
