@@ -19,4 +19,4 @@ https://kalkulator.com.hr/bmi-kalkulator/kalkulator-tezine.aspx
 
 ## Ponderal/Corpulence Index
 
-## Hip Waste Ration
+## Hip Waste Ratio
