@@ -1,4 +1,4 @@
-# Anthropometric Morphologic Characteristics/Measureemnts
+# Anthropometric Morphologic Characteristics/Measuremnts
 
 ## Trvdi
 
